@@ -11,3 +11,8 @@ Thank you for choosing to attend the AI Workshop @ oneAPI Devsummit 2023. This g
 Yet to register on IDC? This [guide](https://github.com/bjodom/idc#account-registration) helps you get started.
 2. *Your laptop has a compatible web-browser installed (preferrably Google Chrome or Mozilla Firefox).*<br>
 3.  *You have access to the [oneAPI Discord](https://discord.gg/ycwqTP6) channel.*<br> This discord channel can help resolve your queries during and after the workshop.
+
+
+## Disclaimer
+1. Other names and brands may be claimed as the property of others<br>
+2. Usage of LLM's are experimental and might not give accurate results
