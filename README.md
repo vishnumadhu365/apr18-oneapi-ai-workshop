@@ -1,5 +1,6 @@
 ## Welcome
-Thank you for choosing to attend the AI Workshop @ oneAPI Devsummit 2023. This github repository holds the necessary artifacts for participating in the handson AI workshop. <br>
+Thank you! for choosing to attend the Intel AI Workshop <br>
+This github repository holds the necessary artifacts for participating in the handson AI workshop. <br>
 
 ## Objectives
 1. Get the hands-on experience on the new [Intel® Developer Cloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/services.html).
@@ -8,8 +9,7 @@ Thank you for choosing to attend the AI Workshop @ oneAPI Devsummit 2023. This g
 
 ## Pre-requisites
 1. *You have registered and can login to the [Intel® Developer Cloud (IDC)](https://www.intel.com/content/www/us/en/developer/tools/devcloud/services.html).* <br>
-Yet to register on IDC? This [guide](https://github.com/bjodom/idc#account-registration) helps you get started.
-2. *Your laptop has a compatible web-browser installed (preferrably Google Chrome or Mozilla Firefox).*<br>
+2. *Your laptop has a compatible web-browser installed (preferrably Chrome or Firefox).*<br>
 3.  *You have access to the [oneAPI Discord](https://discord.gg/ycwqTP6) channel.*<br> This discord channel can help resolve your queries during and after the workshop.
 
 
